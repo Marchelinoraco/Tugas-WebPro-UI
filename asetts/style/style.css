@@ -1,0 +1,313 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+
+
+.A  a{
+    text-decoration: none;
+    position: absolute;
+    width: 107px;
+    height: 25px;
+    left: 635px;
+    color: #8B8BA5;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.B  h2{
+    position: absolute;
+width: 213px;
+height: 40px;
+left: 590px;
+top: 50px;
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+color: #272042;
+}
+
+nav ul{
+   list-style-type: none;
+   margin: 0px;
+   padding-left: 400px;
+   overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #272042;
+padding: 120px 35px 60px 35px;
+text-decoration: none;
+text-align: center;
+}
+
+nav ul li:hover {
+    text-decoration: underline;
+}
+
+.SubMenulist {
+    margin-top: 30px;
+    display: flex;
+    margin-left:auto ;
+    margin-right: 50px;
+    width: max-content;
+    
+    
+}
+
+.SubMenu {
+   margin-right: 50px;
+   text-align: center;
+   border-bottom-left-radius: 50;
+}
+
+.SubMenu h3 {
+    margin-top: 10px;
+}
+.SubMenu p {
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8B8BA5;
+}
+
+.star {
+    margin-top: 10px;
+}
+
+
+
+
+.Border {
+    margin-top: 100px;
+    margin-left: 302px;
+    margin-right: auto;
+}
+
+.Kutip {
+    position: relative;
+    margin-right: 500px;
+}
+
+.teks p{
+    position: absolute;
+    top: 70px;
+    left: 130px;
+    width: max-content;
+    text-align: center;
+    font-size: 36px;
+    color: #272042;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+
+
+}
+
+
+.tutor {
+    position: absolute;
+width: 99px;
+height: 99px;
+left: 578px;
+top : 1000px;
+}
+.tutor p {
+    position: absolute;
+width: 173px;
+height: 28px;
+left: 80px;
+top: 18px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tutor-master{
+    position: absolute;
+width: 173px;
+height: 20px;
+left: 688px;
+top: 1045px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #8B8BA5;
+}
+
+
+.umum {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 300px;
+    width: 900px;
+}
+
+.umum h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+color: #272042;
+line-height: 40px;
+text-align: center;
+}
+
+.umum p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #8B8BA5;
+    margin-top: 20px;
+}
+
+.app {
+    position: absolute;
+width: 443px;
+height: 665px;
+left: 201px;
+top: 1300px;
+}
+
+.apple {
+    position: absolute;
+width: 168.69px;
+height: 50px;
+left: 787px;
+top: 1750px;
+}
+
+.playstore {
+    position: absolute;
+width: 152.85px;
+height: 50px;
+left: 976px;
+top: 1750px;
+}
+
+.app1{
+    position: absolute;
+width: 444px;
+height: 140px;
+left: 787px;
+top:1500px ;
+font-size: 46px;
+
+}
+
+.app2 {
+    position: absolute;
+width: 350px;
+height: 50px;
+left: 787px;
+top:1630px;
+font-size: 20px;
+color: #8B8BA5;
+}
+
+
+.f1 {
+    position: absolute;
+width: 287px;
+height: 28px;
+left: 417px;
+top: 2100px;
+}
+
+.f1 h3 {
+    font-size: 22px;
+    color: #272042;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f1 p:hover{
+    font-size: 18px;
+    color: #8B8BA5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:underline;
+}
+
+.f2 {
+    position: absolute;
+width: 287px;
+height: 28px;
+left: 735px;
+top: 2100px;
+}
+
+.f2 h3 {
+    font-size: 22px;
+    color: #272042;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f2 p:hover{
+    font-size: 18px;
+    color: #8B8BA5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+.f3 {
+    position: absolute;
+width: 287px;
+height: 28px;
+left: 1053px;
+top: 2100px;
+}
+
+.f3 h3 {
+    font-size: 22px;
+    color: #272042;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f3 p:hover{
+    font-size: 18px;
+    color: #8B8BA5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+
+}
+
+.logo {
+    position: absolute;
+width: 151px;
+height: 35px;
+left: 167px;
+top:2170px ;
+}
+
+body{
+    border-top:1px solid #272042;
+}
+
+.foot {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-indent: 40px;
+    line-height: 2;
+    font-weight: 100;
+    color: #8B8BA5;
+}
+
+.line {
+    margin-top: 1100px;
+}
